@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>imgs/addfile.png</file>
+        <file>imgs/addfolder.png</file>
+        <file>imgs/consult.png</file>
+        <file>imgs/delfile.png</file>
+        <file>imgs/delfolder.png</file>
+        <file>imgs/folder.png</file>
+        <file>imgs/note.png</file>
+        <file>imgs/refresh.png</file>
+        <file>imgs/start1.png</file>
+        <file>imgs/stop1.png</file>
+        <file>imgs/suspend1.png</file>
+        <file>imgs/tip.png</file>
+        <file>imgs/volume.png</file>
+        <file>imgs/openfolder.png</file>
+        <file>imgs/mute.png</file>
+        <file>imgs/tape.png</file>
+        <file>imgs/tts.png</file>
+    </qresource>
+</RCC>

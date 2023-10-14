@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>imgs/consult.png</file>
+        <file>imgs/dir.png</file>
+        <file>imgs/start0.png</file>
+        <file>imgs/start1.png</file>
+        <file>imgs/stop0.png</file>
+        <file>imgs/stop1.png</file>
+        <file>imgs/suspend0.png</file>
+        <file>imgs/suspend1.png</file>
+        <file>imgs/volume.png</file>
+        <file>imgs/note.png</file>
+        <file>imgs/addfile.png</file>
+        <file>imgs/addfolder.png</file>
+        <file>imgs/delfile.png</file>
+        <file>imgs/delfolder.png</file>
+        <file>imgs/folder.png</file>
+        <file>imgs/tip.png</file>
+    </qresource>
+</RCC>
